@@ -1,3 +1,5 @@
+$( document ).ready(function() {
+
 var hufflepuff = "https://www.pngkey.com/png/full/43-439176_51-hufflepuff-crest-transparent-hufflepuff-house.png";
 
 var gryffindor = "https://static.wikia.nocookie.net/harryalbuspotter/images/8/8e/0.31_Gryffindor_Crest_Transparent.png/revision/latest/scale-to-width-down/340?cb=20181022144149";
@@ -141,4 +143,5 @@ $(".reset").click(function() {
        $(".container").hide();
 });
 
-
+});
+    
