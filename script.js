@@ -4,7 +4,7 @@ var hufflepuff = "https://www.pngkey.com/png/full/43-439176_51-hufflepuff-crest-
 
 var gryffindor = "https://static.wikia.nocookie.net/harryalbuspotter/images/8/8e/0.31_Gryffindor_Crest_Transparent.png/revision/latest/scale-to-width-down/340?cb=20181022144149";
 
-var ravenclaw = "https://static.wikia.nocookie.net/harrypotter/images/4/4e/RavenclawCrest.png/revision/latest/scale-to-width-down/871?cb=20161020182442";
+var ravenclaw = "https://static.wikia.nocookie.net/pottermore/images/4/40/Ravenclaw_Crest_1.png/revision/latest?cb=20140604194505";
 
 var slytherin = "https://static.wikia.nocookie.net/harrypotter/images/0/00/Slytherin_ClearBG.png/revision/latest/scale-to-width-down/871?cb=20161020182557";
 
