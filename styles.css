@@ -1,5 +1,5 @@
 body {    
-     background:                   url(https://media.sketchfab.com/models/bde62298ac8640588d5a2928b8e113dc/thumbnails/cea9e18e2bc84efdab1c881a6e6d82c6/a778dd7953b34ab9b9bc92dc2a499598.jpeg);
+     background: url(https://media.sketchfab.com/models/bde62298ac8640588d5a2928b8e113dc/thumbnails/cea9e18e2bc84efdab1c881a6e6d82c6/a778dd7953b34ab9b9bc92dc2a499598.jpeg);
 }
 
 img {
@@ -31,7 +31,7 @@ h1 {
        width:50%;
        margin:auto;
        padding: 0 25px 40px 10px;
-       background-color: #DEBE5A;
+       background-color: green;
        border:4px solid #71412C;
        border-radius:5px;
        color: #FFFFFF;
